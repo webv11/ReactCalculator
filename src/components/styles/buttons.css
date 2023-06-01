@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: bisque;
+    height: 0
+}
+
+.button {
+    background-color: #0bdce3;
+    height: 50px;
+    flex-grow: 1;  
+    flex: 1;
+}
+
+.buttonlong {
+    background-color: #0bdce3;
+    height: 50px;
+    width: 50px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
